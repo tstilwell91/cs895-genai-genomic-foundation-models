@@ -51,7 +51,7 @@ Generate a complete and functional Python code snippet for use within a **Colab 
 >
 > **Assistant:** I apologize that the cell was not updated correctly. I am providing the complete and fixed code again to resolve the SyntaxError. Please replace the content of the cell with the following code, which should run without any issues.
 >
-> [!NOTE]
+>  [!NOTE]
 > In the Colab Enterprise interface, Gemini updated the code *in place* and displayed a diff (with green `+` additions and red `-` deletions). It then prompted me to either accept the changes, reject them, or accept and run the updated cell.  I clicked on accept and run.
 >
 > **Assistant:**
