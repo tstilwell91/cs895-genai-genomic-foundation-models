@@ -54,25 +54,12 @@ Generate a complete and functional Python code snippet for use within a **Colab 
 >  [!NOTE]
 > In the Colab Enterprise interface, Gemini updated the code *in place* and displayed a diff (with green `+` additions and red `-` deletions). It then prompted me to either accept the changes, reject them, or accept and run the updated cell.  I clicked on accept and run.
 >
-
-<details>
-  <summary><strong>⚠️ Note</strong></summary>
-
-In the Colab Enterprise interface, Gemini updated the code <em>in place</em> and displayed a diff (with green <code>+</code> additions and red <code>-</code> deletions). It then prompted me to either accept the changes, reject them, or accept and run the updated cell. I clicked on <strong>Accept and Run</strong>.
-</details>
-
-
 ---
 
 ⚠️ **Note**  
 In the Colab Enterprise interface, Gemini updated the code *in place* and displayed a diff (with green `+` additions and red `-` deletions). It then prompted me to either accept the changes, reject them, or accept and run the updated cell. I clicked on **Accept and Run**.
 
 ---
-
-| ⚠️ **Note** |
-| --- |
-| In the Colab Enterprise interface, Gemini updated the code *in place* and displayed a diff (with green `+` additions and red `-` deletions). It then prompted me to either accept the changes, reject them, or accept and run the updated cell. I clicked on **Accept and Run**. |
-
 > **Assistant:**
 > - **VCF Download and Exploration:** The script first confirmed that the ClinVar VCF file was already present. It then ran the `explore_vcf_summary` function, which printed the VCF header (metadata), the column names (`#CHROM, POS, ID, etc.`), and a summary of the first 10 genetic variants from the file.
 > - **Reference Genome Download:** Thanks to the corrected URL, the script successfully downloaded, decompressed, and indexed the reference genome file for chromosome 22.
