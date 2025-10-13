@@ -1,8 +1,6 @@
 
 # Evaluation Summary – Fine-Tuned DNABERT (Epoch 4)
 
-**Date:** 2025-10-13
-
 ## Model Checkpoint
 - Reloaded from: `./runs/dnabert_fullft_es/best_model` (Epoch 4)
 - Tokenizer and model were reloaded from the checkpoint and confirmed functional.
