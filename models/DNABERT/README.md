@@ -1,5 +1,8 @@
-
 # Evaluation Summary – Fine-Tuned DNABERT (Epoch 4)
+## To Do
+- Upload to Hugging Face
+- Update instructions for inference
+- Include sample dataset for inference
 
 ## Model Checkpoint
 - Reloaded from: `./runs/dnabert_fullft_es/best_model` (Epoch 4)
